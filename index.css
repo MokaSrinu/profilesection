@@ -1,0 +1,42 @@
+body>div{
+    width:80%;
+    margin:auto;
+    display:flex;
+    justify-content: space-around;
+}
+#registerform{
+    width:30%;
+    border:1px solid black;
+    display:flex;
+    flex-direction: column;
+    padding:30px
+}
+#loginform{
+    width:30%;
+    display:flex;
+    margin:auto;
+    padding:30px;
+    height:400px;
+    border:1px solid black;
+    flex-direction: column;
+}
+input{
+    padding:10px;
+    margin-top:10px;
+}
+button{
+    padding:10px;
+    margin-top:10px;
+}
+
+#profilesection{
+    width:60%;
+    margin:auto;
+    margin-top:30px;
+}
+#profilesection div{
+    width:40%;
+    margin:auto;
+    border:1px solid black;
+    padding:20px;
+}
